@@ -1,9 +1,10 @@
-cff-version: 1.0.0
+cff-version: 1.1.0
 message: "If you use this script or its results, please cite as below."
 authors:
-  - family-names: Mangum Lehmann
-    given-names: Gabriel
-    orcid: https://orcid.org/0009-0000-0587-5744
+  - family-names: "Mangum Lehmann"
+    given-names: "Gabriel"
+    orcid: "https://orcid.org/0009-0000-0587-5744"
 title: "Exploring the use of dust-MS correlation to create age models for Scotia Sea sediment cores"
 version: 1.0.0
 date-released: 2024-12-05
+url: "https://github.com/ml-gabriel/final-project"
